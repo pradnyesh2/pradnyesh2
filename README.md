@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 **Hello, I'm Pradnyesh Sawant**
 
-<!--
-**pradnyesh2/pradnyesh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 **Data Science and AI professional with 17+ years of experience in IT and Telecom.**
 
-Here are some ideas to get you started:
+🔧 **Expertise Highlights:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI/ML Solutions:** Specializing in Machine Learning, Deep Learning, NLP, and cloud-based solutions.
+
+💡 **Passions:**
+Leveraging data science for impactful business decisions, optimizing processes with AI/ML, and exploring new frontiers in supply chain management and analytics.
+
+🚀 **What You'll Find Here:**
+
+Real-world projects like Netflix movie recommendations, fraud detection models, and sentiment analysis tools.
+Tools and code for automating business processes and enhancing operational efficiency.
+
+📫 **Connect with Me:**
+Explore my work here or reach out on [LinkedIn]:https://www.linkedin.com/in/pradnyesh-sawant/, Kaggle:https://www.kaggle.com/pradnyeshsawant, or GitHub:https://github.com/pradnyesh2.
